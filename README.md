@@ -1,9 +1,9 @@
 # Object Detection Demo
 
 ## Table of Contents
-- [Description](https://github.com/TuanNguyen4/rfc2209-technical-presentation/edit/main/README.md#description)
-- [Usage](https://github.com/TuanNguyen4/rfc2209-technical-presentation/edit/main/README.md#usage)
-- [Installation](https://github.com/TuanNguyen4/rfc2209-technical-presentation/edit/main/README.md#installation)
+- [Description](https://github.com/TuanNguyen4/rfc2209-technical-presentation#description)
+- [Usage](https://github.com/TuanNguyen4/rfc2209-technical-presentation#usage)
+- [Installation](https://github.com/TuanNguyen4/rfc2209-technical-presentation#installation)
 
 ## Description
 
