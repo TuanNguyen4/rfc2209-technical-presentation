@@ -27,5 +27,5 @@ The user can either click on the button to generate a random image URL saved in 
 - Clone this repo locally to your machine
 - Inside the root directory of this project, run `npm install`
 - In one terminal, run `npm run server-dev` to start the server
-- In another terminal, run `npm run client-dev` to start the application
+- In another terminal, run `npm run react-dev` to start the application
 - Go to [http://localhost:3001](http://localhost:3001)
